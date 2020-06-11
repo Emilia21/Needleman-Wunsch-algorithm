@@ -17,5 +17,5 @@ length to include as many matching characters possible.
 Seq 1 - TAGC-GC-GT
 Seq 2 - TA-CA-CAGT
 
-## the application expects the two sequences to be given as a console input on two lines;
+## the application expects the two sequences to be given as a console input on two separate lines;
 

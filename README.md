@@ -14,7 +14,9 @@ termed as Homologous. Thereby, predicting structure and function for the sequenc
 # Global sequence Alignment 
 In this alignment sequences are aligned along their entire
 length to include as many matching characters possible.
+<br />
 Seq 1 - TAGC-GC-GT
+<br />
 Seq 2 - TA-CA-CAGT
 
 ## the application expects the two sequences to be given as a console input on two separate lines;
